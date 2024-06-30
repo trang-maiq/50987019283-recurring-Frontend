@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "eventDescription": "TechMeetUp 2025 is going live on April 15 – 17. Don’t miss out on the latest tech trends and innovations!",
+        "linkText": "Register Now"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Join the Yay Community and Transform Your Ideas into Innovations",
+        "title": "Ignite Your Passion for Technology"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Join the Yay Community and Transform Your Ideas into Innovations",
+        "title": "Ignite Your Passion for Technology"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Join the Yay Community and Transform Your Ideas into Innovations",
+        "title": "Ignite Your Passion for Technology"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Join the Yay Community and Transform Your Ideas into Innovations",
+        "title": "Ignite Your Passion for Technology"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Join the Yay Community and Transform Your Ideas into Innovations",
+        "title": "Ignite Your Passion for Technology"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Join the Yay Community and Transform Your Ideas into Innovations",
+        "title": "Ignite Your Passion for Technology"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Join the Yay Community and Transform Your Ideas into Innovations",
+        "title": "Ignite Your Passion for Technology"
+      }
+    }
+  ],
+  "theme": "dark",
+  "font": "",
+  "title": "Ignite Your Passion for Technology",
+  "subtitle": "Join the Yay Community and Transform Your Ideas into Innovations"
+}
